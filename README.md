@@ -1,5 +1,3 @@
-# eduardolab02
-cat >> README.md << EOF
 
 # eduardolab02 👨‍💻
 
