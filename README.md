@@ -21,6 +21,4 @@ Bem-vindo ao meu laboratório de código!
 **Feito com ❤️ e ☕**
 EOF
 
-git add README.md
-git commit -m "Melhora README com bio e projetos"
-git push
+
